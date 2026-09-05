@@ -1,5 +1,11 @@
 # HR Analytics & Employee Attrition Dashboard (Power BI)
+---
 
+## Dashboard Preview
+
+![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
+
+---
 ## Overview
 This repository contains an end-to-end **HR Analytics Dashboard** built using **Microsoft Power BI**. The project focuses on diagnosing workforce attrition patterns, evaluating employee engagement levels, and visualizing demographic distributions across 1,417 employee records. The interactive dashboard translates transactional HR data into actionable workforce management strategies.
 
@@ -86,14 +92,6 @@ Before visual development, data preprocessing was performed in Power Query:
 2. **Targeted Retention in Administration & Sales:** Conduct exit interviews and compensation benchmarking specifically for *Administration* and *Sales* departments to identify root causes behind their combined 59% turnover contribution.
 3. **Role-Specific Engagement for Technicians & Executives:** Implement workload balancing, skill-upgrading paths, and retention bonuses for *Laboratory Technicians* and *Sales Executives*.
 4. **Compensation Tier Review:** Re-evaluate incentives in the 6–10 LPA bracket to ensure competitive retention against market standards.
-
----
-
-## Dashboard Preview
-
-![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
-
----
 
 ## Project Repository Structure
 ```text
