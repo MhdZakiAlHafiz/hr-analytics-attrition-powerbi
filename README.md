@@ -91,7 +91,7 @@ Before visual development, data preprocessing was performed in Power Query:
 
 ## Dashboard Preview
 
-![HR Analytics Dashboard](images/hr_dashboard.png)
+![HR Analytics Dashboard](images/HR_Analytics_Dashboard.png)
 
 ---
 
